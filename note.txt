@@ -53,3 +53,7 @@ return age >= minimum
 
 ----
 npm i --save-dev redux-logger
+npm i --save-dev redux-logger
+npm i --save react-router@3.0.2
+npm i --save react-redux
+npm i --save react-dom
