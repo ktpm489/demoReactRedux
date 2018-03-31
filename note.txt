@@ -50,3 +50,6 @@ ex: var minimun = 15;
 function checkAge(age){
 return age >= minimum
 }
+
+----
+npm i --save-dev redux-logger
